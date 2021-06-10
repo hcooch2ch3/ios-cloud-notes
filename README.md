@@ -2,7 +2,7 @@
 ## 야곰 iOS 커리어 스타터 캠프 10번째 프로젝트
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/28377820/120157576-23cf3b80-c22e-11eb-85c6-c1869ed6a351.gif" width="60%"/>
+<img src="https://user-images.githubusercontent.com/28377820/121497686-aa4a0100-ca16-11eb-881a-77a0195404d9.gif" width="60%"/>
 </p>
 
 
