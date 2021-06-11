@@ -28,8 +28,13 @@
 </p>
 
 - 화면 크기에 맞게 UI를 변경하는 기능
-    - 화면 너비의 Size class가 Compact 일 때는 메모 목록 또는 메모 내용 하나만 나오게 하며, Regular 일 때는 메모 목록 화면, 메모 내용 화면이 동시에 나타나도록 구성.
-- 메모 내용에 포함된 전화번호, URL, 날짜를 하이퍼링크로 표시하는 기능
+    - 아래 이미지와 같이, 화면 너비의 Size class가 Compact 일 때는 메모 목록 또는 메모 내용 하나만 나오게 하며, Regular 일 때는 메모 목록 화면, 메모 내용 화면이 동시에 나타나도록 구성.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/28377820/121676518-b0f87700-caef-11eb-9f80-0c859a8ade0d.png" width="60%"/>
+</p>
+
+
+- 전화번호, URL, 날짜를 하이퍼링크로 표시하는 기능
     - 아래 이미지와 같이, 메모 내용에 포함된 전화번호, URL, 날짜를 감지하여 하이퍼링크로 표시
 <p align="center">
 <img src="https://user-images.githubusercontent.com/28377820/121670155-16486a00-cae8-11eb-9834-e3b93b3b76d7.png" width="60%"/>
