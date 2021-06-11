@@ -24,7 +24,7 @@
 - 메모 공유 기능
     - 화면 우측 상단의 `...`버튼을 누르고 share 버튼을 누르면 아래 이미지와 같이 창이 나옴.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/28377820/121670302-3d06a080-cae8-11eb-9b96-bd66c6c25d80.png" width="30%"/>
+<img src="https://user-images.githubusercontent.com/28377820/121670302-3d06a080-cae8-11eb-9b96-bd66c6c25d80.png" width="20%"/>
 </p>
 
 - 화면 크기에 맞게 UI를 변경하는 기능
